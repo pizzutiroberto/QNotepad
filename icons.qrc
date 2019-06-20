@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/icons8-about.png</file>
+    <file>icons/icons8-choose_font.png</file>
+    <file>icons/icons8-delete_file.png</file>
+    <file>icons/icons8-new.png</file>
+    <file>icons/icons8-print.png</file>
+    <file>icons/icons8-redo.png</file>
+    <file>icons/icons8-save_all.png</file>
+    <file>icons/icons8-save_as.png</file>
+    <file>icons/icons8-save_close.png</file>
+    <file>icons/icons8-text_color.png</file>
+    <file>icons/icons8-undo.png</file>
+    <file>icons/icons8-opened_folder.png</file>
+    <file>icons/qt.png</file>
+</qresource>
+</RCC>
